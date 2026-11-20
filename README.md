@@ -11,4 +11,4 @@ Aplicación web sencilla desarrollada para el seminario de **Gestión de Softwar
 - **JavaScript (ES6+):** Lógica del CRUD, manipulación del DOM y eventos.
 - **LocalStorage:** Persistencia de datos en el navegador sin necesidad de backend.
 
-- ##  Enlace para Ejecutar
+- ##  Enlace para Ejecutar: https://juanfediaz.github.io/CRUD/
