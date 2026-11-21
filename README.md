@@ -3,7 +3,7 @@
 Aplicación web sencilla desarrollada para el seminario de **Gestión de Software Ágil asistido por Inteligencia Artificial**. Permite administrar tareas de un equipo mediante las operaciones básicas CRUD con persistencia local.
 
 ## Enlaces del Proyecto
-- **Video explicativo:** 
+- **Video explicativo:** https://youtu.be/UnZzG6-v5ZE?si=4wjNBbTjhH3c3Y86
 
 ##  Tecnologías Utilizadas
 - **HTML5:** Estructura semántica de la aplicación.
